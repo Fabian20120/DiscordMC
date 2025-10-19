@@ -1,6 +1,6 @@
 # discord.mc
 
-A lightweight Discord API library for microcontrollers (ESP32/ESP8266) with WiFi support.
+A lightweight Discord API library for microcontrollers (ESP32) with WiFi support.
 
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue)
 
